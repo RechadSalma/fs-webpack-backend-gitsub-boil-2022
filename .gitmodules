@@ -1,0 +1,6 @@
+[submodule "webpacks-1-iKboil"]
+	path = webpacks-1-iKboil
+	url = https://github.com/RechadSalma/webpacks-1-iKboil.git
+[submodule "backend-boil-2022"]
+	path = backend-boil-2022
+	url = https://github.com/RechadSalma/backend-boil-2022.git
